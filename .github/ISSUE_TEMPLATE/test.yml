@@ -12,7 +12,7 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact Details
+      label: 怕 Details
       description: How can we get in touch with you if we need more info?
       placeholder: ex. email@example.com
     validations:
@@ -20,7 +20,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
+      label: 什么?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "A bug happened!"
