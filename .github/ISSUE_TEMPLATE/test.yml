@@ -17,6 +17,14 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
+  - type: input
+    id: contact1
+    attributes:
+      label: 你的姓名
+      description: 你的姓名?
+      placeholder: 几点开始了解的
+    validations:
+      required: false
   - type: textarea
     id: what-happened
     attributes:
